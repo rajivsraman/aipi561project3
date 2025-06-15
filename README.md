@@ -33,19 +33,19 @@ This project simulates a real-time data pipeline and displays it using a live da
 
 ## Overview
 This dashboard lets you explore:
-- 🔁 Real-time simulated data (auto-updating)
-- 🏆 Historical gold price data (XAU/USD from 2004–present)
-- 📉 Performance metrics, rolling averages, and smoothing
+- Real-time simulated data (auto-updating)
+- Historical gold price data (XAU/USD from 2004–present)
+- Performance metrics, rolling averages, and smoothing
 
 ## How to Run
 
 1. Start the real-time simulator (optional):
-    ```bash
+    ```
     python data_generator.py
     ```
 
 2. Launch the dashboard:
-    ```bash
+    ```
     streamlit run dashboard.py
     ```
 
