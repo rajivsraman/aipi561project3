@@ -24,9 +24,3 @@ This project simulates a real-time data pipeline and displays it using a live da
     ```
     streamlit run dashboard.py
     ```
-
-## Features
-
-- **Real-Time Tab**: View live data, smoothing toggle, metrics
-- **Gold Price Tab**: Historical price, volatility, daily returns
-- **User Guide**: Explanations for non-technical users
