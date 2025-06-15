@@ -1,4 +1,7 @@
-# Advanced Analytics Integration - Real-Time Dashboard
+# AIPI 561 (Operationalizing AI) - Week 4 Project
+### Author: Rajiv Raman
+### Institution: Duke University
+### Date: June 15th, 2025
 
 ## Overview
 This project simulates a real-time data pipeline and displays it using a live dashboard built with Streamlit.
